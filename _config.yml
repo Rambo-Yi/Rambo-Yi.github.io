@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Yuqian Fu (傅宇倩)'s Homepage"
+title                    : "Welcome to Rambo (张毅)'s Homepage"
 title_separator          : "-"
-name                     : &name "Yuqian Fu"
-description              : &description "Yuqian Fu's Website"
-url                      : https://lovelyqian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Rambo"
+description              : &description "Rambo's Website"
+url                      : https://Rambo-Yi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lovelyqian/lovelyqian.github.io"
+repository               : "Rambo-Yi/Rambo-Yi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuqian Fu"
+  name             : "Rambo"
   avatar           : "profile.png"
   bio              : Postdoc #"Research Scientist"
   location         : #"Bulgaria"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lovelyqian"
+  github           : "Rambo-Yi"
   google_plus      :
   keybase          :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
