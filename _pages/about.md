@@ -10,10 +10,10 @@ redirect_from:
 
 Biography
 ------
-I am currently a visiting scholar at <a href="https://soai.sjtu.edu.cn/">Scholar of Artifical Intelligence, SJTU</a>. Right before, I worked as a research scientist at <a href="https://insait.ai/">INSAIT</a>, Sofia, Bulgaria, working with Prof. <a href="https://insait.ai/prof-luc-van-gool/">Luc Van Gool</a> and Dr. <a href="https://insait.ai/dr-danda-paudel/">Danda Paudel</a>. Previously, I was a postdoc researcher at <a href="https://vision.ee.ethz.ch/">Computer Vision Lab (CVL)</a>, ETH Zürich,  Switzerland, where I was also fortunate to be mentored by Prof. <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html">Luc Van Gool</a>. 
+I am currently an Assistant Professor in <a href="https://csse.szu.edu.cn/">the College of Computer Science and Software Engineering</a> at Shenzhen University. I received my Ph.D. degree in June 2025 as a jointly trained doctoral student at Harbin Institute of Technology and Southern University of Science and Technology, under the supervision of Professor <a href="https://www.sustech.edu.cn/zh/faculties/zhihaihe.html">Zhihai He</a>. During my doctoral studies, I was also a visiting Ph.D. researcher in the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge, where I worked with Prof. <a href="https://angelicaiaviles.wordpress.com/">Angelica I. Aviles-Rivero</a>.
 
-I received my Ph.D. degree from School of Computer Science, Fudan University, China,  in June 2023, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a> and co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>. During my Ph.D studies, I also worked closely with Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, China, in June 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>.
 
+Before that, I received my M.S. degree in Information System from The University of Texas in 2016, and my B.S. degree in Software Engineering from Northeastern University in 2015.
 
 My research topics are computer vision and deep learning. I mainly aim to build more generalizable vision models by addressing challenges that arise when applying them to downstream tasks, such as few-shot learning,  cross-domain learning, open-vocabulary learning, and multimodal fusion.  Recently, my interests have expanded toward cross-view learning, particularly in bridging exo-centric and ego-centric vision. I am excited about advancing intelligent assistants for egocentric vision understanding.
 
@@ -21,15 +21,9 @@ My research topics are computer vision and deep learning. I mainly aim to build 
 📮 If you're interested in discussing potential collaborations, especially on the topic with egocentric vision, please feel free to drop an email to me: <strong>yizhang.ai@ieee.org</strong>.
 </i> 
 
-<!-- <i>
-🚀 Thanks to the funding from <span style="color:red; font-weight:bold;">Google</span>, we are opening new <span style="color:red; font-weight:bold;">PhD positions</span> 
-to explore exciting frontiers in <strong>egocentric vision with MLLMs</strong>. If you are interested, please feel free to apply on <a href="https://insait.ai/phd/" target="_blank"><strong>https://insait.ai/phd/</strong></a> and drop me an email: <strong>yuqian.fu@insait.ai</strong>.
-</i> -->
+Research Interests
+------
 
-
-
- <!--I am currently a Ph.D. Candidate at <a href="https://fvl.fudan.edu.cn">FVL</a> Lab, Fudan University, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a>, co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>, and Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, Hangzhou, China, in 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>. My current research topics are computer vision and deep learning, and I am mainly focused on few-shot learning especially cross-domain few-shot learning, and few-shot video action recognition.--> 
-  
 
 News
 ------
