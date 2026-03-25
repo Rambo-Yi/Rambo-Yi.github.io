@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rambo"
   avatar           : "yi.jpg"
-  bio              : Postdoc #"Research Scientist"
-  location         : #"Bulgaria"
-  employer         : #"Fudan University"
+  bio              : Assistant Professor #"Research Scientist"
+  location         : #"Shenzhen, China"
+  employer         : #"Shenzhen University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=y3Bpp1IAAAAJ&hl=zh-CN"
-  email            :  "fuyq20@fudan.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=UT39ZSUAAAAJ&hl"
+  email            :  "yizhang.ai@ieee.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
