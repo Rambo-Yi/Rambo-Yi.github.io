@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Yuqian Fu's homepage"
+title: "Welcome to Yi Zhang's homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,7 +18,7 @@ I received my Ph.D. degree from School of Computer Science, Fudan University, Ch
 My research topics are computer vision and deep learning. I mainly aim to build more generalizable vision models by addressing challenges that arise when applying them to downstream tasks, such as few-shot learning,  cross-domain learning, open-vocabulary learning, and multimodal fusion.  Recently, my interests have expanded toward cross-view learning, particularly in bridging exo-centric and ego-centric vision. I am excited about advancing intelligent assistants for egocentric vision understanding.
 
 <i>
-📮 If you're interested in discussing potential collaborations, especially on the topic with egocentric vision, please feel free to drop an email to me: <strong>yuqian.fu.ai@gmail.com</strong>.
+📮 If you're interested in discussing potential collaborations, especially on the topic with egocentric vision, please feel free to drop an email to me: <strong>yizhang.ai@ieee.org</strong>.
 </i> 
 
 <!-- <i>
