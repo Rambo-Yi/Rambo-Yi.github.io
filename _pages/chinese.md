@@ -13,27 +13,24 @@ redirect_from:
 
 教育背景
 ------
-* <strong>保加利亚INSAIT研究院</strong> (2024-2025)
-  * 博士后, 研究员
-* <strong>苏黎世联邦理工学院</strong> (2023-2024)
-  * 博士后
-* <strong>复旦大学</strong> (2018-2023)
-  * 硕博连读生
-  * GPA: 3.7/4.0 (<strong>专业第一</strong>)
-  * 专业: 计算机应用技术
-  * 研究方向：计算机视觉，尤其是小样本视频动作识别，跨域小样本学习
-* <strong>浙江工业大学</strong> (2014-2018) (荣誉毕业生)
-  * 工学学士
-  * GPA: 4.2/5.0 (<strong>专业第一</strong>)
-  * 专业: 计算机科学与技术及自动化双专业一体化
+* <strong>哈尔滨工业大学-南方科技大学</strong> (2021-2025)
+  *联合培养 博士
+  *专业: 计算机应用技术
+  *研究方向：多模态学习，基础模型高效适配
+* <strong>德克萨斯大学</strong> (2015-2016)
+  * 硕士
+  * 专业: 信息系统
+* <strong>东北大学</strong> (2009-2015)
+  * 本科
+  * 专业: 软件工程
 
 
 
 学术任职
 ------
-* 期刊审稿人：TPAMI, IJCV, TIP, TMLR, TNNLS, Information Fusion, TMM, TCSVT, Neurocomputing, TOMM, MVAP
-* 会议审稿人：CVPR(2023/24), ECCV-2024, ICCV-2023, ACM MM(2023/24), AAAI-2022, WACV-2024
-<!-- * AAAI 2022 程序委员会成员（PC）-->
+* 期刊审稿人：TMM, Neurocomputing
+* 会议审稿人：CVPR, ICLR, Neurlps, AAAI, ECCV
+
 
 
 
