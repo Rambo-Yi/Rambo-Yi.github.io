@@ -17,7 +17,6 @@ redirect_from:
   * 联合培养 博士
   * 导师：[何志海](https://www.sustech.edu.cn/zh/faculties/zhihaihe.html) (IEEE Fellow) 
   * 专业: 电子信息
-  * 研究方向：多模态学习，基础模型高效适配
 * <strong>德克萨斯大学</strong> (2015-2016)
   * 硕士: 信息系统
 * <strong>东北大学</strong> (2009-2015)
@@ -57,6 +56,7 @@ redirect_from:
 
 
 
+<!--
 奖项荣誉
 ------
 * 第二届EgoVis（第一人称视角）Ego-Exo4D Correspondence挑战赛第二名 @CVPRW25（2025）
@@ -71,6 +71,7 @@ redirect_from:
 <!-- * 复旦英特尔冠名奖学金 （2022） -->
 <!-- * 复旦华为冠名奖学金 （2021） -->
 <!-- * 复旦大学优秀团干部 （2019） -->
+-->
 
 
 
