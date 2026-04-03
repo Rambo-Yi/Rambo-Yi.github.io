@@ -15,7 +15,13 @@ I am currently an Assistant Professor in <a href="https://csse.szu.edu.cn/">the 
 
 Before that, I received my M.S. degree in Information Systems from The University of Texas in 2016, and my B.S. degree in Software Engineering from Northeastern University in 2015. In addition to my academic training, I also have extensive industry experience, having worked as a software engineer at Huawei and SAP, which provided me with strong practical engineering expertise.
 
-My research topics are computer vision and deep learning. I mainly aim to build more generalizable vision models by addressing challenges that arise when applying them to downstream tasks, such as few-shot learning,  cross-domain learning, open-vocabulary learning, and multimodal fusion.  Recently, my interests have expanded toward cross-view learning, particularly in bridging exo-centric and ego-centric vision. I am excited about advancing intelligent assistants for egocentric vision understanding.
+My research lies at the intersection of <strong>multimodal learning, foundation models, and human-centered AI</strong>. Broadly speaking, I am interested in building intelligent systems that can adapt efficiently, generalize robustly, remain trustworthy and controllable, and collaborate naturally with humans.
+
+Over the past several years, my work has mainly focused on <strong>adaptation, parameter-efficient fine-tuning, and generalization for vision-language models<\strong>. In particular, I study how foundation models can transfer to new tasks, domains, and distributions with lower cost and stronger robustness. In this line of work, I am especially interested in mathematically grounded approaches that combine geometry, optimization, and structured modeling for multimodal learning.
+
+More recently, I have also become interested in the <strong>trustworthiness and controllability of large models<\strong>, including topics such as <strong>machine unlearning<\strong> and <strong>watermarking<\strong>. These directions aim to support safer deployment, better provenance, and more reliable use of large models in real-world applications.
+
+Looking ahead, I am particularly excited about <strong>egocentric vision, egocentric agents, and egocentric multimodal large models<\strong>. My long-term vision is to build <strong>Human-AI Co-Embodied Intelligence<\strong>: AI systems that can understand human behavior, intentions, and interactions with the world from a first-person perspective, and ultimately perceive, reason, and evolve together with humans in the real world.
 
 <i>
 📮 ☎️ If you are interested in my research, joining my group, or potential collaborations, feel free to email me at: <strong>yizhang.ai@ieee.org</strong>. 
@@ -23,7 +29,14 @@ My research topics are computer vision and deep learning. I mainly aim to build 
 
 Research Interests
 ------
+<strong>1. Efficient Adaptation and Generalization for Multimodal Foundation Models<\strong>
+Developing methods for adaptation, efficient fine-tuning, and generalization in vision-language and multimodal foundation models, including parameter-efficient techniques such as LoRA, adapters, and prompt learning.
 
+<strong>2. Trustworthy and Controllable Large Models<\strong>
+Studying topics such as machine unlearning and watermarking to improve the controllability, traceability, and reliability of large models in real-world deployment.
+
+<strong>3. Egocentric Multimodal Intelligence and Human-AI Co-Embodied Intelligence<\strong>
+Building first-person AI systems based on egocentric vision, egocentric agents, and egocentric multimodal large models, with the goal of enabling human-centered perception, reasoning, and long-term collaboration.
 
 News
 ------
