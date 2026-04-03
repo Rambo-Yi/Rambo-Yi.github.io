@@ -42,7 +42,7 @@ redirect_from:
 学术任职
 ------
 * 期刊审稿人：TMM, Neurocomputing
-* 会议审稿人：CVPR, ICLR, Neurlps, AAAI, ECCV
+* 会议审稿人：CVPR, ICLR, NeurIPS, AAAI, ECCV，ACL
 
 
 
