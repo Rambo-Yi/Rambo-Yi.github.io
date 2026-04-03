@@ -49,10 +49,7 @@ redirect_from:
 
 学术活动
 ------
-* 第一届跨域小样本物体检测CD-FSOD挑战赛组织者 （2025）
-* 2021/2022 国际青少年人工智能交流展示会（IAIF）<strong>专家评委</strong>
-* 2021 世界人工智能大会（WAIC）<strong>秘书处成员</strong>
-* 中国计算机学会（CCF）校园宣传大使 (2019-2022)
+
 
 
 
@@ -377,43 +374,19 @@ in Human Brain</span><br>
 </table>
 
 
-学生工作
-------
-* 班级心理委员 （2021-2022）
-* 学生团支部书记 (2018-2021)
-* 学生党支部书记 （2017-2018）
-* 新生助理班主任 （2015-2018）
-* 体育部副部长 （2014-2016）
 
 
 专业能力
 ------
-* 编程语言：**Python**, **Pytorch**
-* 专业工具：Latex, Vim, Matlab, Meshlab
+* 编程语言：**Python**, **Pytorch**,**C++**,**SQL**
+* 专业工具：Latex, Matlab
 
 
 更多信息
 ------
-* 中文博客[在这里](https://www.jianshu.com/u/b3c66a77e742).
+<!--
+* 中文博客[在这里](https://www.jianshu.com/u/b3c66a77e742). -->
 
-
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   
 
 
