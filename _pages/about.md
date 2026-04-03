@@ -18,7 +18,7 @@ Before that, I received my M.S. degree in Information Systems from The Universit
 My research topics are computer vision and deep learning. I mainly aim to build more generalizable vision models by addressing challenges that arise when applying them to downstream tasks, such as few-shot learning,  cross-domain learning, open-vocabulary learning, and multimodal fusion.  Recently, my interests have expanded toward cross-view learning, particularly in bridging exo-centric and ego-centric vision. I am excited about advancing intelligent assistants for egocentric vision understanding.
 
 <i>
-📮 📧If you are interested in my research, joining my group, or potential collaborations, feel free to email me at: <strong>yizhang.ai@ieee.org</strong>. 
+📮 ☎️ If you are interested in my research, joining my group, or potential collaborations, feel free to email me at: <strong>yizhang.ai@ieee.org</strong>. 
 </i> 
 
 Research Interests
