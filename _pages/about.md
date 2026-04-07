@@ -67,7 +67,7 @@ Selected Publications
             <strong>Yi Zhang</strong>, Chun-Wun Cheng, Junyi He, Zhihai He, Carola-Bibiane Schönlieb, Yuyan Chen, Angelica I Aviles-Rivero
             </span><br>
              <span style="font-weight:normal;font-size:16px"> AAAI Conference on Artificial Intelligence (<strong>AAAI2025</strong>). Oral Paper, 接收率=4.6\%, CCF-A </span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2510.06218?">Paper</a>][<a href="">Code</a>][<a href="">Project Page </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2412.15813">Paper</a>][<a href="">Code</a>][<a href="">Project Page </a>]</span>
     </th>
   </tr> 
 </table>
@@ -75,15 +75,15 @@ Selected Publications
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/egocross.png" width="350"/>
+      <img src="../images/aaai24_overview.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">EgoCross: Benchmarking Multimodal Large Language Models for Cross-Domain Egocentric Video Question Answering</span><br>
+            <span style="font-size:18px">Concept-Guided Prompt Learning for Generalization in Vision-Language Models</span><br>
             <br><span style="font-size:16px; font-weight:normal">
-            Yanjun Li, <strong>Yuqian Fu</strong>, Tianwen Qian, Qi'ao Xu, Silong Dai, Danda Pani Paudel, Luc Van Gool, Xiaoling Wang
+            <strong>Yi Zhang</strong>, Ce Zhang, Ke Yu, Yushun Tang, and Zhihai He
             </span><br>
-             <span style="font-weight:normal;font-size:16px"> The AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2508.10729">Paper</a>][<a href="https://github.com/MyUniverse0726/EgoCross">Code</a>][<a href="https://egocross-benchmark.github.io/">Project Page </a>]</span>
+             <span style="font-weight:normal;font-size:16px"> The AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2401.07457.pdf">Paper</a>]</span>
     </th>
   </tr> 
 </table>
