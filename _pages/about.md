@@ -59,7 +59,7 @@ Selected Publications
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/gaussian-new.PNG" width="350"/>
+      <img src="../images/guassian-new.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">Gaussian Shannon: High-Precision Diffusion Model Watermarking Based on Communication</span><br>
