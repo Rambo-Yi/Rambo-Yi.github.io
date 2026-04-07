@@ -56,7 +56,8 @@ News
 
 Selected Publications
 ------
-<strong> 2026 </strong>
+2026
+------
 <table style="width:100%">
   <tr>
     <th width="30%">
@@ -67,7 +68,7 @@ Selected Publications
             <br><span style="font-size:16px; font-weight:normal">
              <strong>Yi Zhang</strong>, Hongbo Huang, Liang-Jie Zhang
             </span><br>
-             <span style="font-weight:normal;font-size:16px">The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (<strong>CVPR2026 </strong>).<strong>CCF-A</strong> </span><br>
+             <span style="font-weight:normal;font-size:16px">The IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR2026 </strong>).<strong>CCF-A</strong> </span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2603.26167">Paper</a>][<a href="https://github.com/Rambo-Yi/Gaussian-Shannon">Code</a>][<a href="">Project Page </a>]</span>
     </th>
   </tr> 
