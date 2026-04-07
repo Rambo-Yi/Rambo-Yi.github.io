@@ -14,6 +14,7 @@ Education
 ------
 * Ph.D: Harbin Institute of Technology  (2018-2023)
   * Joint trained Ph.D of Southern University of Science and Technology
+  * Supervisor: Professor <a href="https://www.sustech.edu.cn/zh/faculties/zhihaihe.html">Zhihai He</a>
   * Multimodal Learning, Vision-Language Models, Efficient Fine-Tuning
 * M.S.: The University of Texas (2015-2016) 
   * Major: Information Systems
