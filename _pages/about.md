@@ -44,6 +44,7 @@ Building first-person AI systems based on egocentric vision, egocentric agents, 
 News
 ------
 <ul class="news">
+  <li>[04/2026] One paper is accepted by ACL 2026(Main Track). Check out <a href="">TLora</a>.</li>
   <li>[01/2026] One paper is accepted by CVPR 2026(Finding Track). Check out <a href="https://arxiv.org/pdf/2603.26167">Gaussian Shannon</a>.</li>
   <li>[01/2026] Two papers are accepted by ICASSP 2026. Check out <a href="https://arxiv.org/pdf/2601.23253">TaTa</a> and <a href="https://arxiv.org/pdf/2601.20224">FPL</a>.</li>
   <li>[12/2025] One paper is accepted by TMM. Check out <a href="https://arxiv.org/abs/2512.08820">T-DHA</a>.</li>
