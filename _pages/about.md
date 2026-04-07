@@ -239,6 +239,22 @@ Selected Publications
   </tr> 
 </table>
 
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/overviewbmvc.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning</span>
+            <br><span style="font-size:16px; font-weight:normal">
+           <strong>Yi Zhang</strong> ,   Ce Zhang, Zihan Liao, Yushun Tang, Zhihai He
+            </span><br>
+            <span style="font-weight:normal;font-size:16px"> British Machine Vision Conference <strong>(BMVC2023). CCF-C</strong>  </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2309.01256">Paper</a>]</span>
+    </th>
+  </tr> 
+</table>
+
 
 
 
