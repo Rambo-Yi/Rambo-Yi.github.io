@@ -107,13 +107,13 @@ Selected Publications
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/ObjectRelator.png" width="350"/>
+      <img src="../images/acmmmcat.jpg" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">ObjectRelator: Enabling Cross-View Object Relation Understanding in Ego-Centric and Exo-Centric Perspectives</span><br>
-             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Runze Wang, Bin Ren, Guolei Sun, Biao Gong, Yanwei Fu, Danda Pani Paudel, Xuanjing Huang, Luc Van Gool</span></span><br>
-             <span style="font-weight:normal;font-size:16px"> International Conference on Computer Vision (<strong>ICCV Highlight</strong>), 2025</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2411.19083">Paper</a>][<a href="https://github.com/lovelyqian/ObjectRelator">Code</a>][<a href="">Youtube Video (Coming Soon) </a>][<a href="">Bilibili Video (Coming Soon) </a>][<a href="http://yuqianfu.com/ObjectRelator/">Project Page </a>]</span>
+            <span style="font-size:18px">Training-Free Feature Reconstruction with Sparse Optimization for Vision-Language Models</span><br>
+             <span style="font-size:16px"><strong>Yi Zhang</strong>, Ke Yu, Angelica I Aviles-Rivero, Jiyuan Jia, Yushun Tang, Zhihai He</span></span><br>
+             <span style="font-weight:normal;font-size:16px"> ACM International Conference on Multimedia (<stonrg>ACMMM2024</stonrg>)</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://openreview.net/pdf?id=bXhz5c12Ee">Paper</a>]</span>
     </th>
   </tr> 
 </table>
