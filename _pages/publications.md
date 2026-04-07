@@ -12,8 +12,8 @@ redirect_from:
 
 <ul>
  <li>
-    <p><a href="">SeGDP: Source-free Cross-domain Few-shot Learning via Semantic Guided Diversity Prompting</a><br/>Linhai Zhuo, Zheng Wang, Tianwen Qian, <strong>Yuqian Fu</strong><br /> ACM Transactions on Multimedia Computing, Communications and Applications (<strong>TOMM</strong>), 2026. 
-    <br /> [<a href="https://arxiv.org/abs/2412.00767">Paper</a>]</p>
+    <p><a href="">Gaussian Shannon: High-Precision Diffusion Model Watermarking Based on Communication</a><br/><strong>Yi Zhang</strong>, Hongbo Huang, Liang-Jie Zhang<br /> The IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR2026 </strong>).<strong>CCF-A</strong> 
+    <br /> [<a href="https://arxiv.org/pdf/2603.26167">Paper</a>][<a href="https://github.com/Rambo-Yi/Gaussian-Shannon">Code</a>][<a href="">Project Page </a>] </p>
   </li>
 
  <li>
