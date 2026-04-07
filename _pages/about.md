@@ -223,6 +223,22 @@ Selected Publications
   </tr> 
 </table>
 
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/ccli.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Cross-Model concept learning and reference for Vision-Language Models</span>
+            <br><span style="font-size:16px; font-weight:normal">
+           <strong>Yi Zhang</strong> ,  Ce Zhang, Yushun Tang, Zhihai He
+            </span><br>
+            <span style="font-weight:normal;font-size:16px"> <strong>Neurocomputing. SCI 中科院二区</strong>  </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2307.15460">Paper</a>]</span>
+    </th>
+  </tr> 
+</table>
+
 
 
 
