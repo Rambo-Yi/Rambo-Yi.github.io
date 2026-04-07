@@ -112,7 +112,7 @@ Selected Publications
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">Training-Free Feature Reconstruction with Sparse Optimization for Vision-Language Models</span><br>
              <span style="font-size:16px"><strong>Yi Zhang</strong>, Ke Yu, Angelica I Aviles-Rivero, Jiyuan Jia, Yushun Tang, Zhihai He</span></span><br>
-             <span style="font-weight:normal;font-size:16px"> ACM International Conference on Multimedia (<stonrg>ACMMM2024</stonrg>)</span><br>
+             <span style="font-weight:normal;font-size:16px"> ACM International Conference on Multimedia (<stonrg>ACMMM2024</stonrg>) <strong>CCF-A</strong> </span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://openreview.net/pdf?id=bXhz5c12Ee">Paper</a>]</span>
     </th>
   </tr> 
@@ -122,14 +122,14 @@ Selected Publications
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/RAG6DPose.png" width="350"/>
+      <img src="../images/concept_ov.jpg" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base</span>
+            <span style="font-size:18px">Conceptual Codebook Learning for Vision-Language Models</span>
             <br><span style="font-size:16px; font-weight:normal">
-            Kuanning Wang, <strong>Yuqian Fu ‡</strong>, Tianyu Wang, Yanwei Fu, Longfei Liang, Yu-Gang Jiang, Xiangyang Xue
+           <strong>Yi Zhang</strong> , Ke Yu, Siqi Wu and Zhihai He
             </span><br>
-            <span style="font-weight:normal;font-size:16px"> International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025</span><br>
+            <span style="font-weight:normal;font-size:16px">European Conference on Computer Vision (<strong>ECCV2024</strong>) <strong>CCF-A</strong> </span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2506.18856">Paper</a>][<a href="">Code (Coming Soon)</a>][<a href="https://sressers.github.io/RAG-6DPose/">Project Page </a>]</span>
     </th>
   </tr> 
