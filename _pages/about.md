@@ -171,7 +171,21 @@ Selected Publications
 </table>
 
 
-
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/icassp_fpl_overview.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Feature Projection Learning for Better Vision-Language Reasoning</span>
+            <br><span style="font-size:16px; font-weight:normal">
+           <strong>Yi Zhang</strong> , Weicheng Lin, Liang-Jie Zhang
+            </span><br>
+            <span style="font-weight:normal;font-size:16px">2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong>ICASSP2026</strong>) <strong>CCF-B</strong> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2601.20224">Paper</a>]</span>
+    </th>
+  </tr> 
+</table>
 
 
 
