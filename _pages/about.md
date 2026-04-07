@@ -66,7 +66,7 @@ Selected Publications
             <br><span style="font-size:16px; font-weight:normal">
             <strong>Yi Zhang</strong>, Chun-Wun Cheng, Junyi He, Zhihai He, Carola-Bibiane Schönlieb, Yuyan Chen, Angelica I Aviles-Rivero
             </span><br>
-             <span style="font-weight:normal;font-size:16px"> AAAI Conference on Artificial Intelligence (<strong>AAAI2025</strong>). Oral Paper, 接收率=4.6\%, CCF-A </span><br>
+             <span style="font-weight:normal;font-size:16px"> AAAI Conference on Artificial Intelligence (<strong>AAAI2025</strong>). Oral Paper, 接收率=4.6\%, <strong>CCF-A</strong> </span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2412.15813">Paper</a>][<a href="">Code</a>][<a href="">Project Page </a>]</span>
     </th>
   </tr> 
@@ -82,7 +82,7 @@ Selected Publications
             <br><span style="font-size:16px; font-weight:normal">
             <strong>Yi Zhang</strong>, Ce Zhang, Ke Yu, Yushun Tang, and Zhihai He
             </span><br>
-             <span style="font-weight:normal;font-size:16px"> The AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024</span><br>
+             <span style="font-weight:normal;font-size:16px"> The AAAI Conference on Artificial Intelligence (<strong>AAAI2024, CCF-A</strong>) </span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2401.07457.pdf">Paper</a>]</span>
     </th>
   </tr> 
@@ -91,15 +91,15 @@ Selected Publications
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/DomainRAG.png" width="350"/>
+      <img src="../images/hyper_01.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection</span><br>
+            <span style="font-size:18px">Training-Free Dual Hyperbolic Adapters for Better Cross-Modal Reasoning</span><br>
             <br><span style="font-size:16px; font-weight:normal">
-            Yu Li, Xingyu Qiu, <strong>Yuqian Fu ‡</strong>, Jie Chen, Tianwen Qian, Xu Zheng, Danda Pani Paudel, Yanwei Fu, Xuanjing Huang, Luc Van Gool, Yu-Gang Jiang
+            <strong>Yi Zhang</strong>, Chun-Wun Cheng, Junyi He, Ke Yu, Yushun Tang, Carola-Bibiane Schönlieb, Angelica I Aviles-Rivero
             </span><br>
-             <span style="font-weight:normal;font-size:16px"> Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2506.05872?">Paper</a>][<a href="">Code</a>][<a href="">Youtube Video (Coming Soon) </a>][<a href="">Bilibili Video (Coming Soon) </a>][<a href="">Project Page </a>]</span>
+             <span style="font-weight:normal;font-size:16px">IEEE Transactions on Mutltimedia(<strong>TMM</strong>).<strong>CCF-A SCI中科院一区</strong></span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2512.08820">Paper</a>]</span>
     </th>
   </tr> 
 </table>
