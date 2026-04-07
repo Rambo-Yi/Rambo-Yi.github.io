@@ -12,28 +12,29 @@ redirect_from:
 
 Education
 ------
-* Postdoc and then Research Scientist: INSAIT (2024-2025)
-  * Research Interests: Multimodal Video Language Models, Egocentric Video Understanding.
-* Postdoc: ETH Zürich (2023-2024)
-  * Research Interests: Few-Shot Learning, Domain Generalization, Open-Vocabulary Learning, Human Brain Reading
-* Ph.D: Fudan University (2018-2023)
-  * GPA: 3.7/4.0 (<strong>Top 1</strong>)
-  * Computer Science and Technology
-  * Computer Vision and Deep Learning,  especially Few-shot Video Action Recognition, and Cross-domain Few-shot Learning
-* B.S.: Zhejiang University of Technology (2014-2018) (Honours Degree)
-  * GPA: 4.2/5.0 (<strong>Top 1</strong>)
-  * Double Major: Computer Science and Technology, Automation
+* Ph.D: Harbin Institute of Technology  (2018-2023)
+  * Joint trained Ph.D of Southern University of Science and Technology
+  * Multimodal Learning, Vision-Language Models, Efficient Fine-Tuning
+* M.S.: The University of Texas (2015-2016) 
+  * Major: Information Systems
+* B.S.: Northeastern University (2009-2015) 
+  * Major: Software Engineering
+
+
+Academic Experience
+------
+
+
+
+Industry Experience
+------
+
 
 
 Services and Leadership
 ------
-* Organizer of the 1st CD-FSOD Challenge @CVPRW25
-* Journal Reviewer：IJCV, TIP, TMLR, TNNLS, Information Fusion, TMM, TCSVT, Neurocomputing, TOMM, MVAP
-* Confence Reviewer：CVPR(2023/24), ECCV-2024, ICCV-2023, ACM MM(2023/24), AAAI-2022, WACV-2024
-<!-- * AAAI-2022 Program Committee (PC) Member -->
-* International Artificial Intelligence Fair (IAIF) 2021/2022 Judge
-* World Artificial Intelligence Conference (WAIC) 2021 Secretariat Member
-* China Computer Federation (CCF) Campus Propaganda Ambassador (2019-2022)
+* Journal Reviewer：TMM, Neurocomputing,
+* Confence Reviewer：CVPR, ECCV, AAAI, ICLR, NeurIPS, ACL
 
 
 <!-- Work experience
