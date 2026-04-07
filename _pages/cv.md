@@ -78,9 +78,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> 
   
-More
-======
-* My Chinese blog can be found [here](https://www.jianshu.com/u/b3c66a77e742).-->
+-->
   
 
 
