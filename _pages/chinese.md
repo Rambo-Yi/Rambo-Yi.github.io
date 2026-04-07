@@ -78,36 +78,37 @@ redirect_from:
 
 
 
-科研工作
+发表作品
 ------
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/egonight.png" width="350"/>
+      <img src="../images/guassian-new.jpg" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">EgoNight: Towards Egocentric Vision Understanding at Night with a Challenging Benchmark</span><br>
+            <span style="font-size:18px">Gaussian Shannon: High-Precision Diffusion Model Watermarking Based on Communication</span><br>
             <br><span style="font-size:16px; font-weight:normal">
-            Deheng Zhang, <strong>Yuqian Fu ‡</strong>, Runyi Yang, Yang Miao, Tianwen Qian, Xu Zheng, Guolei Sun, Ajad Chhatkuli, Xuanjing Huang, Yu-Gang Jiang, Luc Van Gool, Danda Pani Paudel
+             <strong>Yi Zhang</strong>, Hongbo Huang, Liang-Jie Zhang
             </span><br>
-             <span style="font-weight:normal;font-size:16px"> International Conference on Learning Representations (<strong>ICLR</strong>), 2026</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2510.06218?">论文</a>][<a href="">代码</a>][<a href="">项目主页</a>]</span>
+             <span style="font-weight:normal;font-size:16px">The IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR2026 </strong>).<strong>CCF-A</strong> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2603.26167">论文</a>][<a href="https://github.com/Rambo-Yi/Gaussian-Shannon">代码</a>][<a href="">项目网页 </a>]</span>
     </th>
   </tr> 
 </table>
 
+
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/egocross.png" width="350"/>
+      <img src="../images/tlora.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">EgoCross: Benchmarking Multimodal Large Language Models for Cross-Domain Egocentric Video Question Answering</span><br>
+            <span style="font-size:18px">TLoRA: Task-aware Low Rank Adaptation of Large Language Models</span><br>
             <br><span style="font-size:16px; font-weight:normal">
-            Yanjun Li, <strong>Yuqian Fu</strong>, Tianwen Qian, Qi'ao Xu, Silong Dai, Danda Pani Paudel, Luc Van Gool, Xiaoling Wang
+            Weicheng Lin* <strong>Yi Zhang*(Co-first Author)</strong>, Jiawei Dang, Liang-Jie Zhang
             </span><br>
-             <span style="font-weight:normal;font-size:16px"> The AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2508.10729">论文</a>][<a href="https://github.com/MyUniverse0726/EgoCross">代码</a>][<a href="https://egocross-benchmark.github.io/">项目主页</a>]</span>
+             <span style="font-weight:normal;font-size:16px"> The 64th Annual Meeting of the Association for Computational Linguistics (<strong>ACL2026 </strong>).<strong>CCF-A</strong> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="">论文</a>][<a href="">代码</a>][<a href="">项目网页 </a>]</span>
     </th>
   </tr> 
 </table>
@@ -115,15 +116,15 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/DomainRAG.png" width="350"/>
+      <img src="../images/icassp_fpl_overview.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection</span><br>
+            <span style="font-size:18px">Feature Projection Learning for Better Vision-Language Reasoning</span>
             <br><span style="font-size:16px; font-weight:normal">
-            Yu Li, Xingyu Qiu, <strong>Yuqian Fu ‡</strong>, Jie Chen, Tianwen Qian, Xu Zheng, Danda Pani Paudel, Yanwei Fu, Xuanjing Huang, Luc Van Gool, Yu-Gang Jiang
+           <strong>Yi Zhang</strong> , Weicheng Lin, Liang-Jie Zhang
             </span><br>
-             <span style="font-weight:normal;font-size:16px"> Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2506.05872?">论文</a>][<a href="">代码</a>][<a href="">Youtube视频 (Coming Soon) </a>][<a href="">Bilibili视频 (Coming Soon) </a>][<a href="">项目主页</a>]</span>
+            <span style="font-weight:normal;font-size:16px">2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong>ICASSP2026</strong>) <strong>CCF-B</strong> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2601.20224">论文</a>]</span>
     </th>
   </tr> 
 </table>
@@ -131,30 +132,15 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/ObjectRelator.png" width="350"/>
+      <img src="../images/icassp2026-tata.jpg" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">ObjectRelator: Enabling Cross-View Object Relation Understanding in Ego-Centric and Exo-Centric Perspectives</span><br>
-             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Runze Wang, Bin Ren, Guolei Sun, Biao Gong, Yanwei Fu, Danda Pani Paudel, Xuanjing Huang, Luc Van Gool</span></span><br>
-             <span style="font-weight:normal;font-size:16px"> International Conference on Computer Vision (<strong>ICCV Highlight</strong>), 2025</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2411.19083">论文</a>][<a href="https://github.com/lovelyqian/ObjectRelator">代码</a>][<a href="">Youtube视频 (Coming Soon) </a>][<a href="">Bilibili视频 (Coming Soon) </a>][<a href="http://yuqianfu.com/ObjectRelator/">项目主页</a>]</span>
-    </th>
-  </tr> 
-</table>
-
-
-<table style="width:100%">
-  <tr>
-    <th width="30%">
-      <img src="../images/RAG6DPose.png" width="350"/>
-    </th>
-    <th style="text-align:left" width="70%">
-            <span style="font-size:18px">RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base</span>
+            <span style="font-size:18px">Training-Free Test-Time Adaptation with Brownian Distance Covariance in Vision-Language Models</span>
             <br><span style="font-size:16px; font-weight:normal">
-            Kuanning Wang, <strong>Yuqian Fu ‡</strong>, Tianyu Wang, Yanwei Fu, Longfei Liang, Yu-Gang Jiang, Xiangyang Xue
+           <strong>Yi Zhang</strong> , Chun-Wun Cheng, Angelica I Aviles-Rivero, Zhihai He, Liang-Jie Zhang
             </span><br>
-            <span style="font-weight:normal;font-size:16px"> International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2506.18856">论文</a>][<a href="">代码 (Coming Soon)</a>][<a href="https://sressers.github.io/RAG-6DPose/">项目主页</a>]</span>
+            <span style="font-weight:normal;font-size:16px">2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong>ICASSP2026</strong>) <strong>CCF-B</strong> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2601.23253">论文</a>]</span>
     </th>
   </tr> 
 </table>
@@ -162,13 +148,15 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/CAFuser.jpg" width="350"/>
+      <img src="../images/hyper_01.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">CAFuser: Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes</span><br>
-            Tim Brödermann ‡, Christos Sakaridis,  <span style="font-size:16px">Yuqian Fu ‡<span style="font-weight:normal">, Luc Van Gool</span></span><br>
-             <span style="font-weight:normal;font-size:16px">IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2025</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2410.10791">论文</a>][<a href="https://github.com/timbroed/CAFuser">代码</a>]</span>
+            <span style="font-size:18px">Training-Free Dual Hyperbolic Adapters for Better Cross-Modal Reasoning</span><br>
+            <br><span style="font-size:16px; font-weight:normal">
+            <strong>Yi Zhang</strong>, Chun-Wun Cheng, Junyi He, Ke Yu, Yushun Tang, Carola-Bibiane Schönlieb, Angelica I Aviles-Rivero
+            </span><br>
+             <span style="font-weight:normal;font-size:16px">IEEE Transactions on Mutltimedia(<strong>TMM</strong>).<strong>CCF-A SCI中科院一区</strong></span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2512.08820">论文</a>]</span>
     </th>
   </tr> 
 </table>
@@ -176,13 +164,15 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/LAE.jpg" width="350"/>
+      <img src="../images/enhanced_odefff.jpg" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community</span><br>
-            Jiancheng Pan, Yanxing Liu, <span style="font-size:16px">Yuqian Fu ‡<span style="font-weight:normal">, Muyuan Ma, Jiahao Li, Danda Pani Paudel, Luc Van Gool, Xiaomeng Huang ‡</span></span><br>
-             <span style="font-weight:normal;font-size:16px">The AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2408.09110">论文</a>][<a href="https://github.com/jaychempan/LAE-DINO">代码</a>][<a href="https://www.bilibili.com/video/BV1YWAkeMEGz/?vd_source=668a0bb77d7d7b855bde68ecea1232e7">Bilibili视频</a>][<a href="https://jianchengpan.space/LAE-website/index.html">项目主页</a>]</span>
+            <span style="font-size:18px">Cross-Modal Few-Shot Learning with Second-Order Neural Ordinary Differential Equations</span><br>
+            <br><span style="font-size:16px; font-weight:normal">
+            <strong>Yi Zhang</strong>, Chun-Wun Cheng, Junyi He, Zhihai He, Carola-Bibiane Schönlieb, Yuyan Chen, Angelica I Aviles-Rivero
+            </span><br>
+             <span style="font-weight:normal;font-size:16px"> AAAI Conference on Artificial Intelligence (<strong>AAAI2025</strong>). Oral Paper, 接收率=4.6\%, <strong>CCF-A</strong> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2412.15813">论文</a>][<a href="">Code</a>][<a href="">Project Page </a>]</span>
     </th>
   </tr> 
 </table>
@@ -190,100 +180,53 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/cdfsod-benchmark.jpg" width="350"/>
-    </th>
-      <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector</span><br>
-            <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yu Wang, Yixuan Pan, Lian Huai, Xingyu Qiu, Zeyu Shangguan, Tong Liu, Yanwei Fu, Luc Van Gool, Xingqun Jiang</span></span><br>
-             <span style="font-weight:normal;font-size:16px">The European Conference on Computer Vision (<strong>ECCV</strong>), 2024</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2402.03094">论文</a>][<a href="https://github.com/lovelyqian/CDFSOD-benchmark">代码</a>][<a href="https://www.youtube.com/watch?v=t5vREYQIup8">Youtube视频</a>][<a href="https://www.bilibili.com/video/BV17v4UetEdF/?vd_source=668a0bb77d7d7b855bde68ecea1232e7#reply113142138936707">Bilibili视频</a>][<a href="http://yuqianfu.com/CDFSOD-benchmark">项目主页</a>]</span>
-    </th>
-  </tr> 
-</table>
-
-<table style="width:100%">
-  <tr>
-    <th width="30%">
-      <img src="../images/mind3d.jpg" width="350"/>
-    </th>
-      <th style="text-align:left" width="70%">
-            <span style="font-size:18px">MinD-3D: Reconstruct High-quality 3D objects
-in Human Brain</span><br>
-            Jianxiong Gao, <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yun Wang, Xuelin Qian, Jianfeng Feng, Yanwei Fu</span></span><br>
-             <span style="font-weight:normal;font-size:16px">The European Conference on Computer Vision (<strong>ECCV</strong>), 2024</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2312.07485">论文</a>][<a href="https://huggingface.co/datasets/Fudan-fMRI/fMRI-Shape">代码</a>][<a href="https://jianxgao.github.io/MinD-3D">项目主页</a>]</span>
-    </th>
-  </tr> 
-</table>
-
-
-<table style="width:100%">
-  <tr>
-    <th width="30%">
-      <img src="../images/framework-OVRE.jpg" width="350"/>
+      <img src="../images/acmmmcat.jpg" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Open-Vocabulary Video Relation Extraction</span><br>
-            <span style="font-size:16px"><span style="font-weight:normal">Wentao Tian, Zheng Wang, </span> Yuqian Fu<span style="font-weight:normal">, Jingjing Chen, Lechao Cheng</span></span><br>
-            <span style="font-weight:normal;font-size:16px">AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2312.15670">论文</a>]</span>
+            <span style="font-size:18px">Training-Free Feature Reconstruction with Sparse Optimization for Vision-Language Models</span><br>
+             <span style="font-size:16px"><strong>Yi Zhang</strong>, Ke Yu, Angelica I Aviles-Rivero, Jiyuan Jia, Yushun Tang, Zhihai He</span></span><br>
+             <span style="font-weight:normal;font-size:16px"> ACM International Conference on Multimedia (<stonrg>ACMMM2024</stonrg>) <strong>CCF-A</strong> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://openreview.net/pdf?id=bXhz5c12Ee">论文</a>]</span>
     </th>
   </tr> 
 </table>
 
+
+
+
+
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/framework-SACT.jpg" width="350"/>
+      <img src="../images/aaai24_overview.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">On the Importance of Spatial Relations for Few-shot Action Recognition</span><br>
-            <span style="font-size:16px"><span style="font-weight:normal">Yilun Zhang</span>, Yuqian Fu<span style="font-weight:normal">, Xingjun Ma, Lizhe Qi, Jingjing Chen, Yu-Gang Jiang</span></span><br>
-            <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2023.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2308.07119.pdf">论文</a>]</span>
+            <span style="font-size:18px">Concept-Guided Prompt Learning for Generalization in Vision-Language Models</span><br>
+            <br><span style="font-size:16px; font-weight:normal">
+            <strong>Yi Zhang</strong>, Ce Zhang, Ke Yu, Yushun Tang, and Zhihai He
+            </span><br>
+             <span style="font-weight:normal;font-size:16px"> The AAAI Conference on Artificial Intelligence<strong>(AAAI2024), CCF-A</strong> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2401.07457.pdf">论文</a>]</span>
     </th>
   </tr> 
 </table>
 
-<table style="width:100%">
-  <tr>
-    <th width="30%">
-      <img src="../images/framework-styleadv.jpg" width="350"/>
-    </th>
-     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">StyleAdv: Meta Style Adversarial Training for Cross-Domain Few-Shot Learning</span><br>
-            <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yu Xie, Yanwei Fu, Yu-Gang Jiang</span></span><br>
-             <span style="font-weight:normal;font-size:16px">IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2302.09309.pdf">论文</a>][<a href="https://github.com/lovelyqian/StyleAdv-CDFSL">代码</a>][<a href="https://youtu.be/YB-S2YF22mc">Youtube视频</a>][<a href="https://www.bilibili.com/video/BV1th4y1s78H/?spm_id_from=333.999.0.0&vd_source=668a0bb77d7d7b855bde68ecea1232e7">B站视频</a>][<a href="http://yuqianfu.com/PJ-StyleAdv">项目主页</a>]</span>
-    </th>
-  </tr> 
-</table>
+
+
+
 
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/framework-GMetaFDMixup.jpg" width="350"/>
+      <img src="../images/concept_ov.jpg" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Generalized Meta-FDMixup: Cross-Domain Few-Shot Learning Guided by Labeled Target Data</span><br>
-            <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang</span></span><br>
-            <span style="font-weight:normal;font-size:16px">IEEE Transactions on Image Processinig (<strong>TIP</strong>), 2022.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9942934">论文</a>]</span>
-    </th>
-  </tr> 
-</table>
-
-
-<table style="width:100%">
-  <tr>
-    <th width="30%">
-      <img src="../images/framework-MED2N.png" width="350"/>
-    </th>
-    <th style="text-align:left" width="70%">
-            <span style="font-size:18px">ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning</span><br>
-            <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yu Xie, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang</span></span><br>
-            <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2210.05280.pdf">论文</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">代码</a>][<a href="https://www.youtube.com/watch?v=crCoaBLuFeA">Youtube视频</a>][<a href="https://www.bilibili.com/video/BV1GG4y1p7if/?vd_source=668a0bb77d7d7b855bde68ecea1232e7">B站视频</a>]</span>
+            <span style="font-size:18px">Conceptual Codebook Learning for Vision-Language Models</span>
+            <br><span style="font-size:16px; font-weight:normal">
+           <strong>Yi Zhang</strong> , Ke Yu, Siqi Wu and Zhihai He
+            </span><br>
+            <span style="font-weight:normal;font-size:16px">European Conference on Computer Vision (<strong>ECCV2024</strong>) <strong>CCF-B</strong> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2407.02350">论文</a>]</span>
     </th>
   </tr> 
 </table>
@@ -291,13 +234,15 @@ in Human Brain</span><br>
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/framework-TGDM.png" width="350"/>
+      <img src="../images/icassp2024-ttdna.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">TGDM: Target Guided Dynamic Mixup for Cross-Domain Few-Shot Learning</span><br>
-            <span style="font-size:16px"><span style="font-weight:normal">Linhai Zhuo</span>, Yuqian Fu<span style="font-weight:normal">, Jingjing Chen, Yixin Cao, Yu-Gang Jiang</span></span><br>
-            <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2210.05392.pdf">论文</a>]</span>
+            <span style="font-size:18px">Test-time Distribution Learning Adapter for Cross-Modal Visual Reasoning</span>
+            <br><span style="font-size:16px; font-weight:normal">
+           <strong>Yi Zhang</strong> ,  Ce Zhang
+            </span><br>
+            <span style="font-weight:normal;font-size:16px">2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong>ICASSP2024</strong>) <strong>CCF-B</strong> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2403.06059">论文</a>]</span>
     </th>
   </tr> 
 </table>
@@ -305,74 +250,48 @@ in Human Brain</span><br>
 <table style="width:100%">
   <tr>
     <th width="30%">
-       <img src="../images/framework-waveSAN.png" width="350"/>
+      <img src="../images/ccli.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-  <span style="font-size:18px">Wave-SAN: Wavelet based Style Augmentation Network for Cross-Domain Few-Shot Learning</span><br>
-            <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yu Xie, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang</span></span><br>
-            <span style="font-weight:normal;font-size:16px">arXiv preprint, 2022.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2203.07656.pdf">论文</a>]</span>
+            <span style="font-size:18px">Cross-Model concept learning and reference for Vision-Language Models</span>
+            <br><span style="font-size:16px; font-weight:normal">
+           <strong>Yi Zhang</strong> ,  Ce Zhang, Yushun Tang, Zhihai He
+            </span><br>
+            <span style="font-weight:normal;font-size:16px"> <strong>Neurocomputing. SCI 中科院二区</strong>  </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2307.15460">论文</a>]</span>
     </th>
   </tr> 
 </table>
 
-
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/framework-metaFDMixup.png" width="350"/>
+      <img src="../images/overviewbmvc.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Meta-FDMixup: Cross-Domain Few-Shot Learning Guided by Labeled Target Data</span><br>
-            <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yanwei Fu, Yu-Gang Jiang</span></span><br>
-            <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2021.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2107.11978.pdf">论文</a>][<a href="https://github.com/lovelyqian/Meta-FDMixup">代码</a>][<a href="https://www.youtube.com/watch?v=G8Mlde4FpsU">Youtube视频</a>][<a href="https://www.bilibili.com/video/BV1xT4y1f7B6?spm_id_from=333.999.0.0&vd_source=668a0bb77d7d7b855bde68ecea1232e7">B站视频</a>][<a href="http://yuqianfu.com/PJ-MetaFDMixup">项目主页</a>]</span>
+            <span style="font-size:18px">BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning</span>
+            <br><span style="font-size:16px; font-weight:normal">
+           <strong>Yi Zhang</strong> , Ce Zhang, Zihan Liao, Yushun Tang, Zhihai He
+            </span><br>
+            <span style="font-weight:normal;font-size:16px"> British Machine Vision Conference <strong>(BMVC2023). CCF-C</strong>  </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2309.01256">论文</a>]</span>
     </th>
   </tr> 
 </table>
 
-
-
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/framework-ActionImitation.png" width="350"/>
+      <img src="../images/up-adapter.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Can Action be Imitated? Learn to Reconstruct and Transfer Human Dynamics from Videos</span><br>
-            <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yanwei Fu, Yu-Gang Jiang</span></span><br>
-            <span style="font-weight:normal;font-size:16px">International Conference on Multimedia Retrieval (<strong>ICMR</strong>). 2021. (<strong>Oral</strong>)</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2107.11756.pdf">论文</a>][<a href="https://www.bilibili.com/video/BV1VY41147xt?spm_id_from=333.999.0.0">B站视频</a>]</span>
-    </th>
-  </tr> 
-</table>
-
-
-<table style="width:100%">
-  <tr>
-    <th width="30%">
-      <img src="../images/framework-AMeFu.png" width="350"/>
-    </th>
-    <th style="text-align:left" width="70%">
-             <span style="font-size:18px">Depth Guided Adaptive Meta-Fusion Network for Few-shot Video Recognition</span><br>
-            <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Li Zhang, Junke Wang, Yanwei Fu, Yu-Gang Jiang</span></span><br>
-            <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2020. (<strong>Oral</strong>)</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2010.09982.pdf">论文</a>][<a href="https://github.com/lovelyqian/AMeFu-Net">代码</a>][<a href="https://www.youtube.com/watch?v=KqNYuZD5xdw">Youtube视频</a>][<a href="https://www.bilibili.com/video/BV1i44y1t78U?spm_id_from=333.999.0.0">B站视频</a>][<a href="http://yuqianfu.com/PJ-AMeFuNet">项目主页</a>]</span>
-    </th>
-  </tr> 
-</table>
-
-
-<table style="width:100%">
-  <tr>
-    <th width="30%">
-      <img src="../images/framework-embodied.png" width="350"/>
-    </th>
-    <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Embodied One-Shot Video Recognition: Learning from Actions of a Virtual Embodied Agent</span><br>
-            <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Chengrong Wang, Yanwei Fu, Yu-Xiong Wang, Cong Bai, Xiangyang Xue, Yu-Gang Jiang</span></span><br>
-            <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2019. (<strong>Oral</strong>)</span><br>
-            <span style="font-weight:normal;font-size:16px"> [<a href="http://www.cs.cmu.edu/~yuxiongw/research/Embodied_One-Shot_Video_Recognition_Learning_from_Actions_of_a_Virtual_Embodied_Agent.pdf">论文</a>][<a href="https://github.com/lovelyqian/Embodied-One-Shot-Video-Recognition">代码</a>][<a href="http://yuqianfu.com/UnrealAction-Dataset">UnrealAction数据集</a>]</span>
+            <span style="font-size:18px">Unsupervised Prototype Adapter for Vision-Language Models</span>
+            <br><span style="font-size:16px; font-weight:normal">
+           <strong>Yi Zhang</strong> , Ce Zhang, Xueting Hu, Zhihai He
+            </span><br>
+            <span style="font-weight:normal;font-size:16px">  The 6th
+Chinese Conference on Pattern Recognition and Computer Visione <strong>(PRCV2023). CCF-C</strong>  </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2308.11507">论文</a>]</span>
     </th>
   </tr> 
 </table>
