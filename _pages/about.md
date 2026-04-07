@@ -54,18 +54,6 @@ News
 
 
 
-<!-- Selected Publications
-# To update this
-------
-<div class="img">
-            <div id="pic" class="baguetteBox gallery">
-                <img src="images/framework-MED2N.png" />
-            </div>     
-            <div class="details" >
-            <p><a href="">ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning</a><br /><strong>Yuqian Fu</strong>, Yu Xie, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.<br /> [<a href="">Paper Coming Soon</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>]</p>
-            </div>
-</div> -->
-
 Selected Publications
 ------
 <table style="width:100%">
@@ -74,11 +62,11 @@ Selected Publications
       <img src="../images/egonight.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">EgoNight: Towards Egocentric Vision Understanding at Night with a Challenging Benchmark</span><br>
+            <span style="font-size:18px">Cross-Modal Few-Shot Learning with Second-Order Neural Ordinary Differential Equations</span><br>
             <br><span style="font-size:16px; font-weight:normal">
-            Deheng Zhang, <strong>Yuqian Fu ‡</strong>, Runyi Yang, Yang Miao, Tianwen Qian, Xu Zheng, Guolei Sun, Ajad Chhatkuli, Xuanjing Huang, Yu-Gang Jiang, Luc Van Gool, Danda Pani Paudel
+            <strong>Yi Zhang</strong>, Chun-Wun Cheng, Junyi He, Zhihai He, Carola-Bibiane Schönlieb, Yuyan Chen, Angelica I Aviles-Rivero
             </span><br>
-             <span style="font-weight:normal;font-size:16px"> International Conference on Learning Representations (<strong>ICLR</strong>), 2026</span><br>
+             <span style="font-weight:normal;font-size:16px"> AAAI Conference on Artificial Intelligence (<strong>AAAI2025</strong>). Oral Paper, 接收率=4.6\%, CCF-A </span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2510.06218?">Paper</a>][<a href="">Code</a>][<a href="">Project Page </a>]</span>
     </th>
   </tr> 
