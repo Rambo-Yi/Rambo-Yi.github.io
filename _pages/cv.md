@@ -24,11 +24,20 @@ Education
 
 Academic Experience
 ------
-
+* <strong>Shenzhen University, College of Computer Science and Software Engineering</strong> (07/2025 - 至今)
+  *  Assistant Professor
+* <strong>Cambridge University, Department of Applied Mathematics and Theoretical Physics</strong> (03/2024 - 09/2024)
+  *  Visiting Scholar
+* <strong>Southern University of Science and Technology, AI Lab  </strong> (03/2021 - 09/2021)
+  * Research Assistant
 
 
 Industry Experience
 ------
+* <strong>Huawei，SAP </strong> (07/2018- 07/2020)
+  * Software Engineer
+
+
 
 
 
@@ -38,36 +47,14 @@ Services and Leadership
 * Confence Reviewer：CVPR, ECCV, AAAI, ICLR, NeurIPS, ACL
 
 
-<!-- Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
-
 
 Awards
 ------
-* <strong>Second Award</strong> of Ego-Exo4D Correspondence Challenge @CVPRW25（2025）
-* <strong>Outstanding PhD Dissertation</strong> Award Recipient, Fudan University (2024) (<strong>One per School</strong>) 
-* <strong>Outstanding Graduate</strong> in Shanghai (2023) 
-* <strong>Outstanding Student of Fudan University</strong> (2021) (<strong>Top 0.03%</strong>)
-* Graduate Chinese <strong>National Scholarship</strong> (2019) (<strong>Top 2%</strong>)
-* Chinese <strong>National Scholarship</strong> (2016, 2017) (<strong>Top 0.4%</strong>)
-* CCF <strong>National Outstanding</strong> College Student (2017) 
-* <strong>Outstanding Graduate</strong> in Zhejiang Province (2018) 
-<!-- * Huawei Fellowship 2020 -->
-<!-- * Intel Fellowship 2022 -->
 
 Skills
 ------
-* **Python**, **Pytorch**
-* Latex, Vim, Matlab, Meshlab
+* **Python**, **Pytorch**, **C++**, **SQL**
+* Latex, Matlab
 
 
 More
