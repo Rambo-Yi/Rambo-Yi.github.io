@@ -56,8 +56,6 @@ News
 
 Selected Publications
 ------
-2026
-------
 <table style="width:100%">
   <tr>
     <th width="30%">
@@ -209,7 +207,21 @@ Selected Publications
   </tr> 
 </table>
 
-
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/icassp2024-ttdna.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Test-time Distribution Learning Adapter for Cross-Modal Visual Reasoning</span>
+            <br><span style="font-size:16px; font-weight:normal">
+           <strong>Yi Zhang</strong> ,  Ce Zhang
+            </span><br>
+            <span style="font-weight:normal;font-size:16px">2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong>ICASSP2024</strong>) <strong>CCF-B</strong> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2403.06059">Paper</a>]</span>
+    </th>
+  </tr> 
+</table>
 
 
 
