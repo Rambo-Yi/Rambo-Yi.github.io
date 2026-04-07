@@ -57,9 +57,7 @@ Skills
 * Latex, Matlab
 
 
-More
-------
-* My Chinese blog can be found [here](https://www.jianshu.com/u/b3c66a77e742).
+
 
 
 <!-- Publications
@@ -78,7 +76,11 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul> 
+  
+More
+======
+* My Chinese blog can be found [here](https://www.jianshu.com/u/b3c66a77e742).-->
   
 
 
