@@ -59,6 +59,24 @@ Selected Publications
 <table style="width:100%">
   <tr>
     <th width="30%">
+      <img src="../images/tlora.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">TLoRA: Task-aware Low Rank Adaptation of Large Language Models</span><br>
+            <br><span style="font-size:16px; font-weight:normal">
+            Weicheng Lin* <strong>Yi Zhang*(Co-first Author)</strong>, Jiawei Dang, Liang-Jie Zhang
+            </span><br>
+             <span style="font-weight:normal;font-size:16px"> The 64th Annual Meeting of the Association for Computational Linguistics (<strong>ACL2026 </strong>).<strong>CCF-A</strong> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="">Paper</a>][<a href="">Code</a>][<a href="">Project Page </a>]</span>
+    </th>
+  </tr> 
+</table>
+
+
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
       <img src="../images/enhanced_odefff.jpg" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
@@ -129,7 +147,7 @@ Selected Publications
             <br><span style="font-size:16px; font-weight:normal">
            <strong>Yi Zhang</strong> , Ke Yu, Siqi Wu and Zhihai He
             </span><br>
-            <span style="font-weight:normal;font-size:16px">European Conference on Computer Vision (<strong>ECCV2024</strong>) <strong>CCF-A</strong> </span><br>
+            <span style="font-weight:normal;font-size:16px">European Conference on Computer Vision (<strong>ECCV2024</strong>) <strong>CCF-B</strong> </span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2407.02350">Paper</a>]</span>
     </th>
   </tr> 
