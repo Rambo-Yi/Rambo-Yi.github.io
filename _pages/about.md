@@ -130,7 +130,7 @@ Selected Publications
            <strong>Yi Zhang</strong> , Ke Yu, Siqi Wu and Zhihai He
             </span><br>
             <span style="font-weight:normal;font-size:16px">European Conference on Computer Vision (<strong>ECCV2024</strong>) <strong>CCF-A</strong> </span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2506.18856">Paper</a>][<a href="">Code (Coming Soon)</a>][<a href="https://sressers.github.io/RAG-6DPose/">Project Page </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2407.02350">Paper</a>]</span>
     </th>
   </tr> 
 </table>
