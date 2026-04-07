@@ -181,7 +181,7 @@ Selected Publications
             <br><span style="font-size:16px; font-weight:normal">
             <strong>Yi Zhang</strong>, Ce Zhang, Ke Yu, Yushun Tang, and Zhihai He
             </span><br>
-             <span style="font-weight:normal;font-size:16px"> The AAAI Conference on Artificial Intelligence (<strong>AAAI2024, CCF-A</strong>) </span><br>
+             <span style="font-weight:normal;font-size:16px"> The AAAI Conference on Artificial Intelligence<strong>(AAAI2024), CCF-A</strong> </span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2401.07457.pdf">Paper</a>]</span>
     </th>
   </tr> 
