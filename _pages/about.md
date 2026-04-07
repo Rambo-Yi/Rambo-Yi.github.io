@@ -89,6 +89,52 @@ Selected Publications
   </tr> 
 </table>
 
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/icassp_fpl_overview.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Feature Projection Learning for Better Vision-Language Reasoning</span>
+            <br><span style="font-size:16px; font-weight:normal">
+           <strong>Yi Zhang</strong> , Weicheng Lin, Liang-Jie Zhang
+            </span><br>
+            <span style="font-weight:normal;font-size:16px">2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong>ICASSP2026</strong>) <strong>CCF-B</strong> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2601.20224">Paper</a>]</span>
+    </th>
+  </tr> 
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/icassp2026-tata.jpg" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Training-Free Test-Time Adaptation with Brownian Distance Covariance in Vision-Language Models</span>
+            <br><span style="font-size:16px; font-weight:normal">
+           <strong>Yi Zhang</strong> , Chun-Wun Cheng, Angelica I Aviles-Rivero, Zhihai He, Liang-Jie Zhang
+            </span><br>
+            <span style="font-weight:normal;font-size:16px">2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong>ICASSP2026</strong>) <strong>CCF-B</strong> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2601.23253">Paper</a>]</span>
+    </th>
+  </tr> 
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/acmmmcat.jpg" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Training-Free Feature Reconstruction with Sparse Optimization for Vision-Language Models</span><br>
+             <span style="font-size:16px"><strong>Yi Zhang</strong>, Ke Yu, Angelica I Aviles-Rivero, Jiyuan Jia, Yushun Tang, Zhihai He</span></span><br>
+             <span style="font-weight:normal;font-size:16px"> ACM International Conference on Multimedia (<stonrg>ACMMM2024</stonrg>) <strong>CCF-A</strong> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://openreview.net/pdf?id=bXhz5c12Ee">Paper</a>]</span>
+    </th>
+  </tr> 
+</table>
+
 
 
 <table style="width:100%">
@@ -139,19 +185,6 @@ Selected Publications
   </tr> 
 </table>
 
-<table style="width:100%">
-  <tr>
-    <th width="30%">
-      <img src="../images/acmmmcat.jpg" width="350"/>
-    </th>
-    <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Training-Free Feature Reconstruction with Sparse Optimization for Vision-Language Models</span><br>
-             <span style="font-size:16px"><strong>Yi Zhang</strong>, Ke Yu, Angelica I Aviles-Rivero, Jiyuan Jia, Yushun Tang, Zhihai He</span></span><br>
-             <span style="font-weight:normal;font-size:16px"> ACM International Conference on Multimedia (<stonrg>ACMMM2024</stonrg>) <strong>CCF-A</strong> </span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://openreview.net/pdf?id=bXhz5c12Ee">Paper</a>]</span>
-    </th>
-  </tr> 
-</table>
 
 
 <table style="width:100%">
@@ -171,21 +204,7 @@ Selected Publications
 </table>
 
 
-<table style="width:100%">
-  <tr>
-    <th width="30%">
-      <img src="../images/icassp_fpl_overview.png" width="350"/>
-    </th>
-    <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Feature Projection Learning for Better Vision-Language Reasoning</span>
-            <br><span style="font-size:16px; font-weight:normal">
-           <strong>Yi Zhang</strong> , Weicheng Lin, Liang-Jie Zhang
-            </span><br>
-            <span style="font-weight:normal;font-size:16px">2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong>ICASSP2026</strong>) <strong>CCF-B</strong> </span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2601.20224">Paper</a>]</span>
-    </th>
-  </tr> 
-</table>
+
 
 
 
