@@ -42,7 +42,7 @@ redirect_from:
 
 过去几年，我主要研究<strong>视觉语言模型的适配、参数高效微调与泛化</strong>，重点关注基础模型在新任务、新领域和分布变化条件下，如何以更低成本实现高效迁移与稳健泛化。在这一过程中，我尤其关注结合几何、优化与结构化建模等数学工具，探索更具原理性和可解释性的多模态学习方法。
 
-近期，我也开始关注<strong>大模型的可信性与可控性</strong>，包括 <strong>machine unlearning</strong> 和 <strong>watermarking</strong> 等问题，希望推动大模型在真实应用中的安全部署、内容溯源与可靠使用。
+近期，我也开始关注<strong>大模型的可信性与可控性</strong>，包括 <strong>Machine unlearning</strong> 和 <strong>Watermarking & Fingerprinting</strong> 等问题，希望推动大模型在真实应用中的安全部署、内容溯源与可靠使用。
 
 面向未来，我尤其对<strong>第一人称视觉、第一人称智能体以及第一人称多模态大模型</strong>感兴趣。我的长远目标是构建 <strong>Human-AI Co-Embodied Intelligence</strong>，使人工智能能够从第一人称视角理解人的行为、意图与环境交互，并在人机共处的真实世界中与人共同感知、共同理解、共同演化。
 
