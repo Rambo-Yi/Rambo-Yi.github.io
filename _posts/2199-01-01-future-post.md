@@ -22,7 +22,7 @@ tags:
 <strong>"君子有所为，有所不为"</strong>
 (A gentleman knows what to do, and more importantly, what not to do)
 
-技术核心 (Technical Core): Enhancing the controllability, traceability, and reliability of large models in real-world deployment through machine unlearning and watermarking.
+技术核心 (Technical Core): Enhancing the controllability, traceability, and reliability of large models in real-world deployment through machine unlearning and watermarking & fingerprinting.
 
 哲学映射 (Philosophical Mapping): In my research, I view a trustworthy AI as a 'gentleman' (君子). '有所为' (Action) represents the power of Machine Learning—what the model can and should do to assist human reasoning. But more importantly, '有所不为' (Principled Restraint) represents Machine Unlearning and controllability—ensuring the model knows what it must not do, such as generating harmful content or violating privacy. True intelligence requires not just capability, but principled restraint.
 
