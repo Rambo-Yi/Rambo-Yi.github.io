@@ -1,5 +1,5 @@
 ---
-title: 'Future Blog Post'
+title: 'Research Interests & Vision'
 date: 2026-04-11
 permalink: /posts/2012/08/blog-post-4/
 tags:
@@ -9,14 +9,30 @@ tags:
 ---
 
 
-Efficient Adaptation and Generalization - <strong> 以不变应万变，随物而赋形 </strong>
+Research Interests & Vision
+1. Efficient Adaptation and Generalization for Multimodal Foundation Models
 
-这一点的技术核心是“大模型的通用性”与“微调的高效性”（用极少的参数 LoRA/Prompt 去撬动庞大的基础模型，适应万千下游任务）。 “不变”对应的是基础模型（Foundation Models）强大的通用表征能力；“随物赋形”（出自苏轼）完美对应了 Efficient Fine-Tuning（如 LoRA、Prompt learning）——模型无需重构，只需根据不同的任务（物）轻巧地改变形态（赋形）。
+"以不变应万变，随物而赋形"
+(Mastering the constant to adapt to the changing; taking shape according to the task)
 
-Trustworthy and Controllable Large Models -<strong> 君子有所为，有所不为 </strong>
+技术核心 (Technical Core): The universality of foundation models and the efficiency of fine-tuning. By utilizing parameter-efficient techniques (like LoRA and Prompt learning), we can unlock the power of massive models with minimal parameters to adapt to diverse downstream tasks.
 
-In my research, I view a trustworthy AI as a 'gentleman' (君子). '有所为' represents the power of Machine Learning—what the model can and should do. But more importantly, '有所不为' represents Machine Unlearning and controllability—ensuring the model knows what it must not do, such as generating harmful content or violating privacy. True intelligence requires not just capability, but principled restraint.
+哲学映射 (Philosophical Mapping): “不变” (The Constant) 对应基础模型强大的通用表征底座；“随物赋形” (Taking shape according to the object，出自苏轼) 完美契合了 Efficient Fine-Tuning 的精髓——模型主体无需重构，只需根据万千具体的下游任务（物），轻巧、高效地改变其应用形态。
 
- -<strong> 以我观物，知行合一 </strong>
+2. Trustworthy and Controllable Large Models
 
- “以我观物”（出自王国维《人间词话》）是第一人称视觉极其完美的中国文化翻译。它强调 AI 必须像人一样，从“自我”的视角去感知物理世界；“知行合一”（王阳明心学）则精准概括了具身智能（Embodied AI）的核心：将感知推理（知）与物理世界的长程动作执行（行）闭环结合。
+"君子有所为，有所不为"
+(A gentleman knows what to do, and more importantly, what not to do)
+
+技术核心 (Technical Core): Enhancing the controllability, traceability, and reliability of large models in real-world deployment through machine unlearning and watermarking.
+
+哲学映射 (Philosophical Mapping): In my research, I view a trustworthy AI as a 'gentleman' (君子). '有所为' (Action) represents the power of Machine Learning—what the model can and should do to assist human reasoning. But more importantly, '有所不为' (Principled Restraint) represents Machine Unlearning and controllability—ensuring the model knows what it must not do, such as generating harmful content or violating privacy. True intelligence requires not just capability, but principled restraint.
+
+3. Egocentric Multimodal Intelligence and Human-AI Co-Embodied Intelligence
+
+"以我观物，知行合一"
+(Observing the world through the self; unifying knowledge and action)
+
+技术核心 (Technical Core): Building first-person AI systems based on egocentric vision, egocentric agents, and egocentric multimodal large models, aiming for human-centered perception, reasoning, and long-term physical collaboration.
+
+哲学映射 (Philosophical Mapping): “以我观物” (出自王国维《人间词话》) 是对“第一人称视觉” (Egocentric Vision) 极其完美的中国文化翻译，强调 AI 必须像人一样，从“自我”的具身视角去感知复杂的物理世界；“知行合一” (出自王阳明心学) 则精准概括了具身智能（Embodied AI）的终极闭环——将多模态的感知与推理（知），与物理世界中长程的动作执行与人机协同（行）深度融合。
