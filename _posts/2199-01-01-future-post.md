@@ -3,9 +3,9 @@ title: 'Research Interests & Vision'
 date: 2026-04-11
 permalink: /posts/2012/08/blog-post-4/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Research Interests
+  - Vision
+  - Philosophy
 ---
 
 <strong>1. Efficient Adaptation and Generalization for Multimodal Foundation Models</strong>
