@@ -13,7 +13,7 @@ Research Interests & Vision
 1. Efficient Adaptation and Generalization for Multimodal Foundation Models
 
 "以不变应万变，随物而赋形"
-(Mastering the constant to adapt to the changing; taking shape according to the task)
+(Mastering the constant to adapt to the changing, taking shape according to the task)
 
 技术核心 (Technical Core): The universality of foundation models and the efficiency of fine-tuning. By utilizing parameter-efficient techniques (like LoRA and Prompt learning), we can unlock the power of massive models with minimal parameters to adapt to diverse downstream tasks.
 
@@ -31,7 +31,7 @@ Research Interests & Vision
 3. Egocentric Multimodal Intelligence and Human-AI Co-Embodied Intelligence
 
 "以我观物，知行合一"
-(Observing the world through the self; unifying knowledge and action)
+(Observing the world through the self, unifying knowledge and action)
 
 技术核心 (Technical Core): Building first-person AI systems based on egocentric vision, egocentric agents, and egocentric multimodal large models, aiming for human-centered perception, reasoning, and long-term physical collaboration.
 
