@@ -19,7 +19,7 @@ My research lies at the intersection of <strong>multimodal learning, foundation 
 
 Over the past several years, my work has mainly focused on <strong>adaptation, parameter-efficient fine-tuning, and generalization for vision-language models</strong>. In particular, I study how foundation models can transfer to new tasks, domains, and distributions with lower cost and stronger robustness. In this line of work, I am especially interested in mathematically grounded approaches that combine geometry, optimization, and structured modeling for multimodal learning.
 
-More recently, I have also become interested in the <strong>trustworthiness and controllability of large models</strong>, including topics such as <strong>machine unlearning</strong> and <strong>watermarking</strong>. These directions aim to support safer deployment, better provenance, and more reliable use of large models in real-world applications.
+More recently, I have also become interested in the <strong>trustworthiness and controllability of large models</strong>, including topics such as <strong>machine unlearning</strong> and <strong>Watermarking & Fingerprinting</strong>. These directions aim to support safer deployment, better provenance, and more reliable use of large models in real-world applications.
 
 Looking ahead, I am particularly excited about <strong>egocentric vision, egocentric agents, and egocentric multimodal large models</strong>. My long-term vision is to build <strong>Human-AI Co-Embodied Intelligence</strong>: AI systems that can understand human behavior, intentions, and interactions with the world from a first-person perspective, and ultimately perceive, reason, and evolve together with humans in the real world.
 
@@ -35,7 +35,7 @@ Developing methods for adaptation, efficient fine-tuning, and generalization in 
 
 <strong>2. Trustworthy and Controllable Large Models</strong>
 
-Studying topics such as machine unlearning and watermarking to improve the controllability, traceability, and reliability of large models in real-world deployment.
+Studying topics such as machine unlearning and Watermarking & Fingerprinting to improve the controllability, traceability, and reliability of large models in real-world deployment.
 
 <strong>3. Egocentric Multimodal Intelligence and Human-AI Co-Embodied Intelligence</strong>
 
