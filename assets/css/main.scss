@@ -165,3 +165,45 @@
     display: block !important;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .desktop-nav {
+    display: none !important;
+  }
+
+  .mobile-nav-simple {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    width: 100%;
+    padding: 0.6rem 1rem;
+  }
+
+  .mobile-nav-title {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .mobile-nav-title a {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .mobile-nav-simple select {
+    flex-shrink: 0;
+    max-width: 45%;
+    padding: 6px 10px;
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width: 769px) {
+  .mobile-nav-simple {
+    display: none !important;
+  }
+}
