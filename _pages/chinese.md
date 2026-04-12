@@ -309,9 +309,9 @@ Chinese Conference on Pattern Recognition and Computer Visione <strong>(PRCV2023
 
 教学
 ------
-* 软件工程
-* 软件工程实训
-* 强化学习
+* 《软件工程》本科
+* 《软件工程实训》本科
+* 《强化学习》研究生
 
 
 更多信息
