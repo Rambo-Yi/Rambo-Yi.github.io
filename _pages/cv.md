@@ -56,6 +56,11 @@ Skills
 * **Python**, **Pytorch**, **C++**, **SQL**
 * Latex, Matlab
 
+Teaching
+------
+* <strong>Software Engineering </strong> (Undergraduate)
+* <strong>Comprehensive Software Engineering Training</strong> (Undergraduate)
+* <strong>Reinforcement learning theory and application</strong> (Graduate)
 
 
 
