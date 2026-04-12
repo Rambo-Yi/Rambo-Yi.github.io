@@ -52,6 +52,14 @@ News
   <li>[06/2025] I officially earned my Ph.D. through the joint training program of Harbin Institute of Technology and Southern University of Science and Technology. Feel free to call me Dr. Rambo.</li>
 </ul>
 
+Teaching
+------
+* <strong>Software Engineering </strong> (Undergraduate)
+* <strong>Comprehensive Software Engineering Training</strong> (Undergraduate)
+* <strong>Reinforcement learning theory and application</strong> (Graduate)
+
+  
+
 
 
 Selected Publications
