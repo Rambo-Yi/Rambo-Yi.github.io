@@ -1,4 +1,59 @@
+
+
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const nav = document.querySelector(".greedy-nav");
+  if (!nav) return;
+
+  const btn = nav.querySelector("button");
+  const vlinks = nav.querySelector(".visible-links");
+  const hlinks = nav.querySelector(".hidden-links");
+  if (!btn || !vlinks || !hlinks) return;
+
+  function setupMobileNav() {
+    if (window.innerWidth > 768) {
+      hlinks.classList.add("hidden");
+      btn.style.display = "";
+      return;
+    }
+
+    btn.style.display = "block";
+    btn.style.position = "absolute";
+    btn.style.right = "0.75rem";
+    btn.style.top = "0.5rem";
+    btn.style.zIndex = "1001";
+
+    hlinks.style.position = "absolute";
+    hlinks.style.right = "0";
+    hlinks.style.top = "100%";
+    hlinks.style.left = "auto";
+    hlinks.style.width = "220px";
+    hlinks.style.maxWidth = "80vw";
+    hlinks.style.background = "#fff";
+    hlinks.style.border = "1px solid rgba(0,0,0,0.12)";
+    hlinks.style.boxShadow = "0 6px 18px rgba(0,0,0,0.12)";
+    hlinks.style.zIndex = "1000";
+
+    const items = Array.from(vlinks.querySelectorAll("li"));
+    items.forEach((li, index) => {
+      if (index === 0) return; // 保留第一个标题
+      if (!hlinks.contains(li)) {
+        hlinks.appendChild(li);
+      }
+    });
+
+    btn.onclick = function (e) {
+      e.preventDefault();
+      hlinks.classList.toggle("hidden");
+    };
+  }
+
+  setupMobileNav();
+  window.addEventListener("resize", setupMobileNav);
+});
+</script>
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
