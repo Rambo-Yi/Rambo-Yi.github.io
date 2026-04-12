@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Rambo (张毅)'s Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Rambo"
 description              : &description "Rambo's Website"
