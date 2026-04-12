@@ -307,6 +307,13 @@ Chinese Conference on Pattern Recognition and Computer Visione <strong>(PRCV2023
 * 专业工具：Latex, Matlab
 
 
+教学
+------
+* 软件工程
+* 软件工程实训
+* 强化学习
+
+
 更多信息
 ------
 <!--
