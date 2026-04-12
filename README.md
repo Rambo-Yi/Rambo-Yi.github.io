@@ -1,1 +1,1 @@
-Thanks to Dr. Fuyu Qian. I built my website by forking her github.
+Thanks to Dr. Yuqian Fu. I built my website by forking her github.
