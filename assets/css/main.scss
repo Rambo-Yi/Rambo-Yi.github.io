@@ -85,3 +85,36 @@
     background: transparent; /* 轨道完全透明 */
   }
 }
+
+@media screen and (max-width: 768px) {
+  .greedy-nav {
+    height: auto !important;
+  }
+
+  .greedy-nav .visible-links {
+    display: block !important;
+    position: static !important;
+    width: 100% !important;
+  }
+
+  .greedy-nav .visible-links li {
+    display: block !important;
+    float: none !important;
+    width: 100%;
+    margin: 0;
+  }
+
+  .greedy-nav .visible-links li a {
+    display: block;
+    width: 100%;
+    padding: 10px 16px;
+  }
+
+  .greedy-nav .hidden-links {
+    display: none !important;
+  }
+
+  .greedy-nav button {
+    display: none !important;
+  }
+}
