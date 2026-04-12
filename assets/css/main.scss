@@ -151,3 +151,17 @@
     width: 100%;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .greedy-nav {
+    position: relative !important;
+  }
+
+  .greedy-nav .hidden-links.hidden {
+    display: none !important;
+  }
+
+  .greedy-nav .hidden-links:not(.hidden) {
+    display: block !important;
+  }
+}
