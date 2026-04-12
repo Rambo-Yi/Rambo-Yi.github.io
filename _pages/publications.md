@@ -16,6 +16,12 @@ redirect_from:
     <br /> [<a href="https://arxiv.org/pdf/2603.26167">Paper</a>][<a href="https://github.com/Rambo-Yi/Gaussian-Shannon">Code</a>][<a href="">Project Page </a>] </p>
   </li>
 
+   <li>
+    <p><a href="">TLoRA: Task-aware Low Rank Adaptation of Large Language Models</a><br/>Weicheng Lin*,<strong>Yi Zhang*(Co-first author)</strong>, 
+Jiawei Dang, Liang-Jie Zhang <br /> The 64th Annual Meeting of the Association for Computational Linguistics (<strong>ACL2026 Main </strong>).<strong>CCF-A</strong> 
+    <br /> [<a href="">Paper</a>][<a href="https://github.com/Rambo-Yi/TLora">Code</a>][<a href="">Project Page </a>] </p>
+  </li>
+
 
 </ul>
 
