@@ -92,7 +92,7 @@ Selected Publications
             Weicheng Lin* <strong>Yi Zhang*(Co-first Author)</strong>, Jiawei Dang, Liang-Jie Zhang
             </span><br>
              <span style="font-weight:normal;font-size:16px"> The 64th Annual Meeting of the Association for Computational Linguistics (<strong>ACL2026 </strong>).<strong>CCF-A</strong> </span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="">Paper</a>][<a href="">Code</a>][<a href="">Project Page </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="">Paper</a>][<a href="https://github.com/Rambo-Yi/TLora">Code</a>][<a href="">Project Page </a>]</span>
     </th>
   </tr> 
 </table>
