@@ -36,20 +36,23 @@ redirect_from:
 * <strong>华为，SAP </strong> (07/2018- 07/2020)
   * 软件工程师
 
+
 研究兴趣
 ------
-我的研究兴趣位于<strong>多模态学习、基础模型与人本智能</strong>的交叉方向。总体而言，我关注如何构建能够<strong>高效适配、稳健泛化、可信可控，并能够与人自然协作</strong>的智能系统。
+我的研究兴趣位于<strong>多模态学习、基础模型、人本智能以及面向智能系统的软件工程</strong>的交叉方向。总体而言，我关注如何构建能够<strong>高效适配、稳健泛化、可信可控、与人自然协作，并能够在真实环境中被可靠构建、部署与维护</strong>的智能系统。
 
 过去几年，我主要研究<strong>视觉语言模型的适配、参数高效微调与泛化</strong>，重点关注基础模型在新任务、新领域和分布变化条件下，如何以更低成本实现高效迁移与稳健泛化。在这一过程中，我尤其关注结合几何、优化与结构化建模等数学工具，探索更具原理性和可解释性的多模态学习方法。
 
-近期，我也开始关注<strong>大模型的可信性与可控性</strong>，包括 <strong>Machine unlearning</strong> 和 <strong>Watermarking & Fingerprinting</strong> 等问题，希望推动大模型在真实应用中的安全部署、内容溯源与可靠使用。
+近期，我也开始关注<strong>大模型的可信性与可控性</strong>，包括 <strong>Machine Unlearning</strong> 和 <strong>Watermarking &amp; Fingerprinting</strong> 等问题，希望推动大模型在真实应用中的安全部署、内容溯源与可靠使用。
 
 面向未来，我尤其对<strong>第一人称视觉、第一人称智能体以及第一人称多模态大模型</strong>感兴趣。我的长远目标是构建 <strong>Human-AI Co-Embodied Intelligence</strong>，使人工智能能够从第一人称视角理解人的行为、意图与环境交互，并在人机共处的真实世界中与人共同感知、共同理解、共同演化。
 
+更广义地说，我的软件工程背景也促使我持续思考：如何将基础模型、多模态智能与具身智能的研究进展，进一步转化为可构建、可评测、可部署、可维护的真实智能系统。
 
-* <strong>多模态基础模型的高效适配与泛化</strong>：研究视觉语言模型与多模态基础模型的 adaptation、efficient fine-tuning、generalization，以及 LoRA、adapters、prompt learning 等参数高效方法。
-* <strong>大模型的可信与可控机制</strong>：研究 machine unlearning、watermarking 等方向，提升大模型在真实应用中的可控性、可追踪性与可靠性。
+* <strong>多模态基础模型的高效适配与泛化</strong>：研究视觉语言模型与多模态基础模型的高效适配、参数高效微调与稳健泛化，包括 LoRA、Adapters、Prompt Learning 等参数高效方法。
+* <strong>大模型的可信与可控机制</strong>：研究 Machine Unlearning、Watermarking 等方向，提升大模型在真实应用中的可控性、可追踪性与可靠性。
 * <strong>第一人称多模态智能与人机共具身智能</strong>：研究第一人称视觉、第一人称智能体和第一人称多模态大模型，探索以人为中心的感知、推理与协作机制，推动 Human-AI Co-Embodied Intelligence。
+* <strong>面向多模态与具身智能系统的软件工程</strong>：研究如何将多模态基础模型与具身智能能力系统化地组织为可构建、可测试、可部署、可维护的真实系统，重点关注模块化架构、可靠性评测、人机闭环交互与生命周期管理。
 
 
 学术任职
