@@ -15,7 +15,7 @@ I am currently an Assistant Professor in <a href="https://csse.szu.edu.cn/">the 
 
 Before that, I received my M.S. degree in Information Systems from The University of Texas in 2016, and my B.S. degree in Software Engineering from Northeastern University in 2015. In addition to my academic training, I also have extensive industry experience, having worked as a software engineer at Huawei and SAP, which provided me with strong practical engineering expertise.
 
-My research lies at the intersection of <strong>multimodal learning, foundation models, and human-centered AI</strong>. Broadly speaking, I am interested in building intelligent systems that can adapt efficiently, generalize robustly, remain trustworthy and controllable, and collaborate naturally with humans.
+My research lies at the intersection of <strong>multimodal learning, foundation models, human-centered AI</strong>, and <strong>software engineering for intelligent systems</strong>. Broadly speaking, I am interested in building intelligent systems that can adapt efficiently, generalize robustly, remain trustworthy and controllable, collaborate naturally with humans, and be systematically engineered for reliable real-world deployment.
 
 Over the past several years, my work has mainly focused on <strong>adaptation, parameter-efficient fine-tuning, and generalization for vision-language models</strong>. In particular, I study how foundation models can transfer to new tasks, domains, and distributions with lower cost and stronger robustness. In this line of work, I am especially interested in mathematically grounded approaches that combine geometry, optimization, and structured modeling for multimodal learning.
 
@@ -40,6 +40,10 @@ Studying topics such as machine unlearning and Watermarking & Fingerprinting to 
 <strong>3. Egocentric Multimodal Intelligence and Human-AI Co-Embodied Intelligence</strong>
 
 Building first-person AI systems based on egocentric vision, egocentric agents, and egocentric multimodal large models, with the goal of enabling human-centered perception, reasoning, and long-term collaboration.
+
+<strong>4. Software Engineering for Multimodal and Embodied AI Systems</strong>
+
+Studying how multimodal and embodied AI systems can be systematically built, evaluated, deployed, and maintained in real-world settings, with an emphasis on modular design, reliability, human-in-the-loop interaction, and lifecycle management.
 
 News
 ------
