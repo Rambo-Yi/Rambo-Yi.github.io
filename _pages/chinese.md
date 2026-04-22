@@ -112,7 +112,8 @@ redirect_from:
             Weicheng Lin* <strong>Yi Zhang*(Co-first Author)</strong>, Jiawei Dang, Liang-Jie Zhang
             </span><br>
              <span style="font-weight:normal;font-size:16px"> The 64th Annual Meeting of the Association for Computational Linguistics (<strong>ACL2026 </strong>).<strong>CCF-A</strong> </span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="">论文</a>][<a href="">代码</a>][<a href="">项目网页 </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2604.18124">论文</a>][<a href="https://
+github.com/Rambo-Yi/TLora/tree/main">代码</a>][<a href="">项目网页 </a>]</span>
     </th>
   </tr> 
 </table>
